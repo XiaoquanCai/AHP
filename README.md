@@ -1,11 +1,14 @@
 # AHP
+
 ### 文件下载
 下载AHP.py文件和main.py文件，并放置于同一个python工程目录下。
+
 ### 环境配置
 python安装教程可以参照网上任意教程。
 
 这里给一个参考网站：https://blog.csdn.net/qq_53280175/article/details/121107748
-### 库安装：
+
+### 库安装
 pandas、numpy、warnings
 
 理论上安装python自带上述三个库，若没有，使用pip install 库名进行安装。
@@ -22,5 +25,4 @@ pandas、numpy、warnings
 ![image](https://github.com/XiaoquanCai/AHP/assets/103872588/544a43e1-f242-47a6-b247-f6ef58fe10fa)
 ![image](https://github.com/XiaoquanCai/AHP/assets/103872588/6f0da6be-2912-4ee4-816b-6c293347bbf9)
 
-
-
+其中，criteria是准则层两两之间的重要性比较的判断矩阵
