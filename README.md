@@ -2,7 +2,9 @@
 ### 文件下载
 下载AHP.py文件和main.py文件，并放置于同一个python工程目录下。
 ### 环境配置
-python安装教程可以参照网上任意教程，这里给一个参考网站https://blog.csdn.net/qq_53280175/article/details/121107748
+python安装教程可以参照网上任意教程。
+
+这里给一个参考网站：https://blog.csdn.net/qq_53280175/article/details/121107748
 ### 库安装：
 pandas、numpy、warnings
 
