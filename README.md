@@ -13,4 +13,5 @@ pandas、numpy、warnings
 ### AHP算法使用教程
 注意！！！：请勿随意修改AHP.py文件，用户仅需要通过简单的修改main.py文件使用AHP算法。
 
-首先
+用户需修改的参数有：criteria、b1~bn、b  如图：
+
