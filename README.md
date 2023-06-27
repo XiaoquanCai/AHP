@@ -20,7 +20,6 @@ pandas、numpy、warnings
 注意！！！：每个需要的参数头部皆有注释说明。
 
 ![image](https://github.com/XiaoquanCai/AHP/assets/103872588/544a43e1-f242-47a6-b247-f6ef58fe10fa)
-
 ![image](https://github.com/XiaoquanCai/AHP/assets/103872588/6f0da6be-2912-4ee4-816b-6c293347bbf9)
 
 
