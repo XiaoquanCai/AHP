@@ -15,3 +15,7 @@ pandas、numpy、warnings
 
 用户需修改的参数有：criteria、b1~bn、b  如图：
 
+![image](https://github.com/XiaoquanCai/AHP/assets/103872588/544a43e1-f242-47a6-b247-f6ef58fe10fa)
+
+
+
