@@ -37,7 +37,7 @@ class AHP:
 
     def run(self):
         max_eigen, CR, criteria_eigen = self.cal_weights(self.criteria)
-        print('准则层：最大特征值{:<5f},CR={:<5f},检验{}通过'.format(max_eigen, CR, '' if CR < 0.1 else '不'))
+        print('准则层：最大特征值{:<5f},CR={:<5f},检验{}'.format(max_eigen, CR, '通过' if CR < 0.1 else '不通过，请检查判断矩阵A中的重要性关系是否准确'))
         print('准则层权重={}\n'.format(criteria_eigen))
 
         max_eigen_list, CR_list, eigen_list = [], [], []
