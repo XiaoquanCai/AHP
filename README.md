@@ -25,4 +25,5 @@ pandas、numpy、warnings
 ![image](https://github.com/XiaoquanCai/AHP/assets/103872588/544a43e1-f242-47a6-b247-f6ef58fe10fa)
 ![image](https://github.com/XiaoquanCai/AHP/assets/103872588/6f0da6be-2912-4ee4-816b-6c293347bbf9)
 
-其中，criteria是准则层两两之间的重要性比较的判断矩阵
+其中，criteria是准则层两两之间的重要性比较的判断矩阵，A和B的重要性比较和B到A的重要性比较成倒数。bi(i=1,2,...,n)为对第i个准则而言，方案层两两之间的成对对比矩阵，b为bi组成的数组。
+关于criteria、b1~bn的设置可以参考链接：https://mp.weixin.qq.com/s/HZthyYyQIcoYmaxnYzTQDw
